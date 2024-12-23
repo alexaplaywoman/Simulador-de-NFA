@@ -16,7 +16,7 @@ Sigue los pasos a continuación para configurar y ejecutar el simulador:
 Clona este repositorio en tu máquina local:
 ```bash
 git clone https://github.com/tu-usuario/nfa-simulator.git
-cd nfa-simulator
+cd Simulador-de-NFA
 ```
 ### 2. Crear un entorno virtual (opcional)
 ```bash
